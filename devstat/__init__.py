@@ -1,1 +1,1 @@
-from sysstat import *
+from devstat import *
